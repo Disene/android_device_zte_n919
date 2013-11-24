@@ -13,11 +13,11 @@ make bacon -j32
 
 Disene's BLOG: http://disene-blog.com.nu
 
-N919ר�����ã� By ���� ����-Disene
+N919专用配置， By 安智 破晓-Disene
 
-ͬ����Ŀ¼device/zte/n919 ����
+同步到目录device/zte/n919 即可
 
-������
+方法：
 
 . build/envsetup.sh
 
