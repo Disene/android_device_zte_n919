@@ -1,4 +1,5 @@
 android_device_zte_n919
+-----------------------
 Disene device
 
 Synchronization to the directory device/zte/n919
@@ -12,11 +13,11 @@ make bacon -j32
 
 Disene's BLOG: http://disene-blog.com.nu
 
-N919×¨ÓÃÅäÖÃ£¬ By °²ÖÇ ÆÆÏþ-Disene
+N919×¨ï¿½ï¿½ï¿½ï¿½ï¿½Ã£ï¿½ By ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½-Disene
 
-Í¬²½µ½Ä¿Â¼device/zte/n919 ¼´¿É
+Í¬ï¿½ï¿½ï¿½ï¿½Ä¿Â¼device/zte/n919 ï¿½ï¿½ï¿½ï¿½
 
-·½·¨£º
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 . build/envsetup.sh
 
